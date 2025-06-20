@@ -15,8 +15,8 @@ future: true
 #RSS: false
 #weibo_username: huxpro
 #zhihu_username: huxpro
-#github_username: huxpro
-#twitter_username: huxpro
+github_username: hwxlikemi
+twitter_username: hwxlikemi
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "永远相信美好的事情机将发生 <br> — 小米"
 sidebar-avatar: https://github.com/Hwxlikemi.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
